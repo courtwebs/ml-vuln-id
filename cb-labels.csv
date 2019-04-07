@@ -1,0 +1,242 @@
+Directory,CWE,Binary
+3D_Image_Toolkit,125,3D_Image_Toolkit
+Accel,"193, 457",Accel
+A_Game_of_Chance,201,A_Game_of_Chance_1
+AIS-Lite,"20, 120, 122, 129, 788",AIS-Lite
+anagram_game,"122, 755",anagram_game
+ASCII_Content_Server,"787, 476, 195",ASCII_Content_Server
+ASL6parse,125,ASL6parse
+Audio_Visualizer,122,Audio_Visualizer
+Azurad,680,Azurad
+Barcoder,"134, 121, 839",Barcoder
+basic_emulator,170,basic_emulator
+basic_messaging,"190, 131, 120",basic_messaging
+BIRC,"121, 287, 521",BIRC
+BitBlaster,"824, 476",BitBlaster
+Bloomy_Sunday,121,Bloomy_Sunday
+Blubber,"125, 129, 191",Blubber
+Board_Game,787,Board_Game
+BudgIT,"122, 125, 131, 193, 469, 787",BudgIT
+CableGrind,"131, 121",CableGrind
+CableGrindLlama,"131, 122",CableGrindLlama
+Carbonate,129,Carbonate
+Casino_Games,121,Casino_Games
+Cereal_Mixup__A_Cereal_Vending_Machine_Controller,"502, 822",Cereal_Mixup__A_Cereal_Vending_Machine_Controller
+CGC_Board,"122, 823",CGC_Board
+CGC_File_System,125,CGC_File_System
+CGC_Hangman_Game,"121, 134",CGC_Hangman_Game
+CGC_Image_Parser,"129, 416",CGC_Image_Parser
+CGC_Planet_Markup_Language_Parser,"120, 122, 476",CGC_Planet_Markup_Language_Parser
+CGC_Symbol_Viewer_CSV,"839, 190",CGC_Symbol_Viewer_CSV
+CGC_Video_Format_Parser_and_Viewer,120,CGC_Video_Format_Parser_and_Viewer
+Character_Statistics,"681, 189",Character_Statistics
+Charter,"120, 122",Charter
+Checkmate,"20, 134, 201",Checkmate
+chess_mimic,787,chess_mimic
+Childs_Game,"121, 839",Childs_Game
+CLOUDCOMPUTE,"122, 843",CLOUDCOMPUTE
+CML,843,CML
+CNMP,134,CNMP
+COLLIDEOSCOPE,"119, 703, 704, 843",COLLIDEOSCOPE
+commerce_webscale,"121, 252",commerce_webscale
+Corinth,121,Corinth
+cotton_swab_arithmetic,"20, 119, 125, 367, 476, 787",cotton_swab_arithmetic
+Cromulence_All_Service,"195, 121, 190, 131, 121",Cromulence_All_Service
+CTTP,"121, 125",CTTP
+cyber_blogger,"783, 704",cyber_blogger
+DFARS_Sample_Service,94,DFARS_Sample_Service
+Diary_Parser,"125, 121, 476",Diary_Parser
+Differ,121,Differ
+Diophantine_Password_Wallet,"824, 476",Diophantine_Password_Wallet
+Dive_Logger,"787, 839",Dive_Logger
+Divelogger2,119,Divelogger2
+Document_Rendering_Engine,"131, 122, 125, 788",Document_Rendering_Engine
+Dungeon_Master,"170, 193, 125",Dungeon_Master
+ECM_TCM_Simulator,"125, 200",ECM_TCM_Simulator
+Eddy,"120, 122, 787",Eddy
+electronictrading,"822, 190, 129, 122, 416, 843",electronictrading
+Email_System_2,121,Email_System_2
+Enslavednode_chat,122,Enslavednode_chat
+Estadio,121,Estadio
+EternalPass,822,EternalPass
+expression_database,119,expression_database
+FablesReport,"122, 123, 190, 763, 788",FablesReport
+FaceMag,121,FaceMag
+Facilities_Access_Control_System,"190, 787",Facilities_Access_Control_System
+FailAV,786,FailAV
+FASTLANE,"120, 121",FASTLANE
+FileSys,416,FileSys
+Filesystem_Command_Shell,193,Filesystem_Command_Shell
+Finicky_File_Folder,"416, 825",Finicky_File_Folder
+FISHYXML,"20, 122, 129, 131, 787",FISHYXML
+Flash_File_System,787,Flash_File_System
+Flight_Routes,121,Flight_Routes
+Fortress,122,Fortress
+FSK_BBS,121,FSK_BBS
+FSK_Messaging_Service,"120, 122",FSK_Messaging_Service
+FUN,788,FUN
+Game_Night,119,Game_Night
+Glue,"125, 129",Glue
+GPS_Tracker,"120, 121, 457, 200",GPS_Tracker
+GreatView,"131, 787",GreatView
+greeter,"121, 822, 471, 201, 326, 327, 328",greeter
+GREYMATTER,"120, 121",GREYMATTER
+Gridder,"681, 121",Gridder
+Griswold,"20, 129, 193, 476",Griswold
+Grit,126,Grit
+H20FlowInc,"20, 128, 129, 190, 788, 805, 824",H20FlowInc
+HackMan,457,HackMan
+hawaii_sets,"120, 400",hawaii_sets
+Headscratch,"787, 823",Headscratch
+HeartThrob,"120, 122, 125",HeartThrob
+HIGHCOO,"20, 129, 190, 191, 193, 195, 680",HIGHCOO
+HighFrequencyTradingAlgo,"476, 787, 190",HighFrequencyTradingAlgo
+Hug_Game,119,Hug_Game
+humaninterface,122,humaninterface
+Image_Compressor,787,Image_Compressor
+INSULATR,"843, 824, 704, 476",INSULATR
+Kaprica_Go,134,Kaprica_Go
+Kaprica_Script_Interpreter,"134, 476, 674",Kaprica_Script_Interpreter
+KKVS,"122, 131, 788, 476",KKVS
+KTY_Pretty_Printer,"121, 415, 908",KTY_Pretty_Printer
+LAN_Simulator,"20, 129, 665, 316",LAN_Simulator
+Lazybox,"193, 20",Lazybox
+LazyCalc,121,LazyCalc
+LMS,"122, 193, 416, 825",LMS
+Loud_Square_Instant_Messaging_Protocol_LSIMP,843,Loud_Square_Instant_Messaging_Protocol_LSIMP
+LulzChat,"195, 476, 908",LulzChat
+Matchmaker,201,Matchmaker
+Material_Temperature_Simulation,"190, 129",Material_Temperature_Simulation
+Mathematical_Solver,121,Mathematical_Solver
+matrices_for_sale,"787, 190, 129",matrices_for_sale
+Matrix_Math_Calculator,121,Matrix_Math_Calculator
+Message_Service,"798, 131",Message_Service
+Messaging,122,Messaging_1
+middleout,"121, 787, 788",middleout
+middleware_handshake,134,middleware_handshake
+Minimalistic_Memo_Manager_3M,"122, 376, 476",Minimalistic_Memo_Manager_3M
+Mixology,"120, 193",Mixology
+Modern_Family_Tree,"122, 129, 193, 788",Modern_Family_Tree
+Monster_Game,120,Monster_Game
+Mount_Filemore,"119, 122",Mount_Filemore
+Movie_Rental_Service,"121, 416",Movie_Rental_Service
+Movie_Rental_Service_Redux,134,Movie_Rental_Service_Redux
+Multi_Arena_Pursuit_Simulator,"170, 125",Multi_Arena_Pursuit_Simulator
+Multicast_Chat_Server,"200, 209, 457, 665",Multicast_Chat_Server
+Multipass,822,Multipass
+Multipass2,476,Multipass2
+Multipass3,476,Multipass3
+Multi_User_Calendar,121,Multi_User_Calendar
+Music_Store_Client,"120, 122, 20, 839, 787",Music_Store_Client
+NarfAgainShell,"59, 61, 275, 434, 674",NarfAgainShell
+NarfRPN,"125, 190, 369, 682, 704, 843",NarfRPN
+netstorage,787,netstorage
+Network_File_System,"131, 190, 122",Network_File_System
+Network_File_System_v3,"196, 127",Network_File_System_v3
+Network_Queuing_Simulator,"131, 120",Network_Queuing_Simulator
+Neural_House,121,Neural_House
+NoHiC,"20, 476",NoHiC
+No_Paper._Not_Ever._NOPE,"665, 908",No_Paper._Not_Ever._NOPE
+One_Amp,121,One_Amp
+One_Vote,201,One_Vote
+online_job_application,120,online_job_application
+online_job_application2,"120, 122",online_job_application2
+On_Sale,"122, 131, 787, 788",On_Sale
+Order_Up,"122, 131, 704, 787, 788, 805",Order_Up
+OTPSim,126,OTPSim
+OUTLAW,"300, 465, 822",OUTLAW
+Overflow_Parking,190,Overflow_Parking
+Pac_for_Edges,122,Pac_for_Edges
+Packet_Analyzer,"134, 125",Packet_Analyzer
+Packet_Receiver,"131, 119, 121",Packet_Receiver
+Palindrome,121,Palindrome
+Palindrome2,121,Palindrome2
+Parking_Permit_Management_System_PPMS,"121, 193",Parking_Permit_Management_System_PPMS
+Particle_Simulator,787,Particle_Simulator
+Pattern_Finder,"121, 787",Pattern_Finder
+payroll,"118, 121",payroll
+PCM_Message_decoder,120,PCM_Message_decoder
+Personal_Fitness_Manager,"131, 121",Personal_Fitness_Manager
+Pipelined,121,Pipelined_1
+pizza_ordering_system,476,pizza_ordering_system
+PKK_Steganography,"121, 190",PKK_Steganography
+Printer,122,Printer
+PRU,125,PRU
+PTaaS,"119, 416, 703, 704, 825, 843",PTaaS
+QuadtreeConways,690,QuadtreeConways
+Query_Calculator,129,Query_Calculator
+QUIETSQUARE,674,QUIETSQUARE
+RAM_based_filesystem,"787, 476",RAM_based_filesystem
+reallystream,680,reallystream
+Recipe_and_Pantry_Manager,129,Recipe_and_Pantry_Manager
+Recipe_Database,"476, 193",Recipe_Database
+REDPILL,"416, 200",REDPILL
+Rejistar,"193, 122, 787, 788",Rejistar
+REMATCH_1--Hat_Trick--Morris_Worm,"120, 798, 215",REMATCH_1--Hat_Trick--Morris_Worm
+REMATCH_2--Mail_Server--Crackaddr,120,REMATCH_2--Mail_Server--Crackaddr
+REMATCH_3--Address_Resolution_Service--SQL_Slammer,121,REMATCH_3--Address_Resolution_Service--SQL_Slammer
+REMATCH_4--CGCRPC_Server--MS08-067,135,REMATCH_4--CGCRPC_Server--MS08-067
+REMATCH_5--File_Explorer--LNK_Bug,193,REMATCH_5--File_Explorer--LNK_Bug
+REMATCH_6--Secure_Server--Heartbleed,788,REMATCH_6--Secure_Server--Heartbleed
+Resort_Modeller,"468, 822",Resort_Modeller
+root64_and_parcour,121,root64_and_parcour
+router_simulator,129,router_simulator
+RRPN,122,RRPN
+Sad_Face_Template_Engine_SFTE,122,Sad_Face_Template_Engine_SFTE
+Sample_Shipgame,121,Sample_Shipgame
+SAuth,"121, 190",SAuth
+Scrum_Database,122,Scrum_Database
+SCUBA_Dive_Logging,"122, 129",SCUBA_Dive_Logging
+Secure_Compression,"121, 125, 129",Secure_Compression
+Sensr,"125, 226",Sensr
+SFTSCBSISS,120,SFTSCBSISS
+Shipgame,134,Shipgame_1
+Shortest_Path_Tree_Calculator,"124, 131",Shortest_Path_Tree_Calculator
+ShoutCTF,121,ShoutCTF
+SIGSEGV,"20, 347, 393, 561",SIGSEGV
+simple_integer_calculator,"843, 125, 787, 476, 190",simple_integer_calculator
+simplenote,"122, 674",simplenote
+simpleOCR,"121, 787, 190",simpleOCR
+Simple_Stack_Machine,122,Simple_Stack_Machine
+Single-Sign-On,"122, 457, 787, 788",Single-Sign-On
+SLUR_reference_implementation,"476, 843",SLUR_reference_implementation
+Snail_Mail,201,Snail_Mail
+SOLFEDGE,"20, 129, 193",SOLFEDGE
+Sorter,"122, 119",Sorter
+Space_Attackers,121,Space_Attackers
+SPIFFS,"785, 416",SPIFFS
+Square_Rabbit,190,Square_Rabbit
+stack_vm,"193, 121, 122, 125",stack_vm
+Stock_Exchange_Simulator,"388, 822",Stock_Exchange_Simulator
+stream_vm,127,stream_vm
+stream_vm2,"129, 665, 787",stream_vm2
+Street_map_service,467,Street_map_service
+String_Info_Calculator,201,String_Info_Calculator
+String_Storage_and_Retrieval,476,String_Storage_and_Retrieval
+TAINTEDLOVE,"120, 121, 122, 125, 787, 476",TAINTEDLOVE
+Tennis_Ball_Motion_Calculator,"787, 682, 681",Tennis_Ball_Motion_Calculator
+Terrible_Ticket_Tracker,134,Terrible_Ticket_Tracker
+TextSearch,"193, 674, 457",TextSearch
+TFTTP,"457, 125",TFTTP
+The_Longest_Road,121,The_Longest_Road
+Thermal_Controller_v2,121,Thermal_Controller_v2
+Thermal_Controller_v3,121,Thermal_Controller_v3
+TIACA,787,TIACA
+Tick-A-Tack,"120, 476",Tick-A-Tack
+tribute,,tribute
+TVS,822,TVS
+university_enrollment,"783, 122",university_enrollment
+User_Manager,416,User_Manager
+UTF-late,"20, 22, 176, 822",UTF-late
+ValveChecks,"120, 121, 191, 195",ValveChecks
+Vector_Graphics_2,"119, 805",Vector_Graphics_2
+Vector_Graphics_Format,"119, 196, 191",Vector_Graphics_Format
+Venture_Calculator,"125, 129, 398",Venture_Calculator
+vFilter,"123, 125, 465",vFilter
+Virtual_Machine,"787, 122",Virtual_Machine
+virtual_pet,122,virtual_pet
+Water_Treatment_Facility_Simulator,"196, 131",Water_Treatment_Facility_Simulator
+WhackJack,121,WhackJack
+WordCompletion,125,WordCompletion
+XStore,125,XStore
+yolodex,787,yolodex
